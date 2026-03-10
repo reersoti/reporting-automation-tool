@@ -163,9 +163,6 @@ Some non-trivial parts of the project included:
 ### Report Configuration
 ![Report Configuration](./assets/report-config.png)
 
-### Generated Excel Output
-![Generated Excel Output](./assets/generated-report.png)
-
 ---
 
 ## Public Repository Scope
